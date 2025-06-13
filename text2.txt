@@ -1,1 +1,13 @@
-hi ithu text2.txt 
+git init = file la git . in new folder
+git remote add origin =were origin not found
+git branch -M main branch change into master as main
+git branch -a= it s for how many branch and what are the branch
+
+i wont to put the in put as
+.for loops:
+in 1000 numbers in put the in put  a answer is got the out put is 1000 numbers of in rowes in 1000 numbers in gat the spuort in word's is for for loops.
+                                                                                                    
+                                                                          
+                                                                                                                      BY
+
+                                                                                                                     Sriram.p   
